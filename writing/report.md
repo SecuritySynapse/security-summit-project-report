@@ -140,3 +140,5 @@ TODO: Please provide references to the one or more GitHub repositories that
 contains the source code and/or data that accompanies your long-term project.
 Please make sure that the course instructor has access to these repositories,
 ensuring that they are available for inspection without a follow-on request.
+
+- **Final Project GitHub Repository**:
