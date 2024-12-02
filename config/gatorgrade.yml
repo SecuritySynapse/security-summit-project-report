@@ -14,6 +14,24 @@
         fragment: "Add Your Name Here"
         count: 0
         exact: true
+    - description: Preserve the label for the topic of the final project
+      check: MatchFileFragment
+      options:
+        fragment: "Final Project Topic"
+        count: 1
+        exact: false
+    - description: Preserve the label for the title of the final project
+      check: MatchFileFragment
+      options:
+        fragment: "Final Project Topic"
+        count: 1
+        exact: false
+    - description: Provide a reference to the GitHub repository for the final project
+      check: MatchFileFragment
+      options:
+        fragment: "Final Project GitHub Repository"
+        count: 1
+        exact: false
     - description: Preserve the list of checks for tasks designated for completion during this project
       check: MatchFileFragment
       options:
@@ -26,16 +44,10 @@
         fragment: "- [X]"
         count: 8
         exact: false
-    - description: Furnish one learning objectives with correct formatting in the final report
-      check: MatchFileFragment
-      options:
-        fragment: "**CS-403**"
-        count: 1
-        exact: false
     - description: Write a minimum number of meaningful words in the final report document
       check: CountFileWords
       options:
-        count: 1000
+        count: 750
         exact: false
     - description: Confirm that the markdown file has at least a minimum number of headers
       check: CountMarkdownTags
