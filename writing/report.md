@@ -39,16 +39,16 @@ TODO: Please create a filled checkbox for each update task that you completed
 
 TODO: Please do not fill in the checkbox if you did not complete the task
 
-- [] Explored various topics in the field of computer security
-- [] Gave a list of the overall scientific and engineering goals for the project
-- [] Wrote a project abstract with both an overview and the expected contributions
-- [] Explained the ways in which the project's topic evolved since its proposal
-- [] Furnished a demonstration of project feasibility through explained code
-- [] Overviewed at least one empirical result from your preliminary experiments
-- [] Gave a list of tasks that you plan to complete after the final report
-- [] Explained how the project has helped you to achieve learning outcomes
+- [] Stated the final topic and gave the final title for your project
+- [] Reviewed the scientific and engineering goals for your project
+- [] Assessed how well the project achieved its scientific and engineering goals
+- [] Described each of the key components within the implemented software tool
+- [] Documented the design of the experiment that you conducted for evaluation
+- [] Using tables of data and/or graphs, reported on the experimental results
+- [] Documented the challenges that you faced and how you overcame them
+- [] Summarized the project’s contributions and suggested areas for future work
 
-### Project Update
+### Project Report
 
 #### What is the final topic that you selected for your security summit project?
 
