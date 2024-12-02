@@ -27,7 +27,7 @@ synapse project's final report.
 TODO: You should delete all of the prompts in this file so as to ensure that the
 final document is a comprehensive final report for your security synapse project.
 
-## Security Summit Project report
+## Security Summit Project Report
 
 ### Add Your Name Here
 
