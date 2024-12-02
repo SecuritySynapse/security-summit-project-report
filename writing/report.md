@@ -40,6 +40,7 @@ TODO: Please create a filled checkbox for each report task that you completed
 TODO: Please do not fill in the checkbox if you did not complete the task
 
 - [] Stated the final topic and gave the final title for your project
+- [] Furnished the final version of the abstract for your project
 - [] Reviewed the scientific and engineering goals for your project
 - [] Assessed how well the project achieved its scientific and engineering goals
 - [] Described each of the key components within the implemented software tool
@@ -92,6 +93,17 @@ on a scale of 1 to 5 (with 1 being the lowest and 5 being the highest) how well
 you achieved that goal. In addition to providing a numerical rating, please
 furnish a written justification for why you assigned that score.
 
+#### What are the key components of the software tool that you implemented?
+
+TODO: Please provide a list of the key components of the software tool that you
+implemented, giving a name for each component and explaining how it connects to
+the other components in the system.
+
+#### Describe the design of the experiment that you conducted for evaluation.
+
+TODO: Furnish research questions that you stated and answered, ensuring that
+each research question references an evaluation metric and a strategy that you
+adopted for experimentally answering the stated research question.
 
 #### Please pick one source code segment from your final tool and explain it.
 
