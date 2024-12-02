@@ -61,6 +61,16 @@ details than the topic list that you provided in the previous sub-section.
 - **Final Project Topic**: 
 - **Final Project Title**:
 
+#### What is the final version of the abstract of your project?
+
+TODO: Write a brief one-paragraph abstract that overviews your long-term project
+and the expected outcomes. The content that you write here should be written and
+formatted like the abstract of a scientific paper published in an ACM or IEEE
+conference in the field of computer security. The one different between an
+abstract that you read in a published research paper and this abstract is that
+the one you are writing here will reference expected research results and a
+published paper will explain the results from a completed study.
+
 #### What are the ways in which your project's topic evolved since its proposal?
 
 TODO: Write a brief one-paragraph description of how your project's topic
@@ -82,15 +92,6 @@ on a scale of 1 to 5 (with 1 being the lowest and 5 being the highest) how well
 you achieved that goal. In addition to providing a numerical rating, please
 furnish a written justification for why you assigned that score.
 
-#### What is the final version of the abstract of your project?
-
-TODO: Write a brief one-paragraph abstract that overviews your long-term project
-and the expected outcomes. The content that you write here should be written and
-formatted like the abstract of a scientific paper published in an ACM or IEEE
-conference in the field of computer security. The one different between an
-abstract that you read in a published research paper and this abstract is that
-the one you are writing here will reference expected research results and a
-published paper will explain the results from a completed study.
 
 #### Please pick one source code segment from your final tool and explain it.
 
