@@ -27,7 +27,7 @@ of your security synapse project's final report.
 TODO: You should delete all of the prompts in this file so as to ensure that the
 final document is a comprehensive final report for your security synapse project.
 
-## Security Summit Project Update
+## Security Summit Project report
 
 ### Add Your Name Here
 
@@ -35,7 +35,7 @@ TODO: Make sure to include your name in the above heading.
 
 ### Summary Checklist
 
-TODO: Please create a filled checkbox for each update task that you completed
+TODO: Please create a filled checkbox for each report task that you completed
 
 TODO: Please do not fill in the checkbox if you did not complete the task
 
@@ -54,54 +54,44 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 
 TODO: Write one or two sentences that offer an overview of your topic, explain
 what you are going to build, and describe how you are going to evaluate it. What
-you furnish in this sub-section of the update should include a few more
+you furnish in this sub-section of the report should include a few more
 details than the topic list that you provided in the previous sub-section.
 
 - **Chosen Topic**: 
+- **Final Title**:
 
 #### What are the ways in which your project's topic evolved since its proposal?
 
-TODO: Write a one-paragraph description of how your project's topic evolved since
-you first proposed it. This response should explain how your project's topic
-changed from both a high-level perspective and in terms of the specific
-technical details that are central to the completion of your project.
+TODO: Write a brief one-paragraph description of how your project's topic
+evolved since you first proposed it. This response should explain how your
+project's topic changed from both a high-level perspective and in terms of the
+specific technical details that are central to the completion of your project.
 
-#### What are the updated scientific and/or engineering goals for your chosen project?
+#### What are the scientific and/or engineering goals for your chosen project?
 
 TODO: Provide a list of at least three goals for your chosen project. Each goal
 that you provide should have a clear noun and verb. Whenever it is possible to
 do so, please make sure that you do not write any of these goals in passive
 voice as that would obscure the overall contributions of your project.
 
-#### What is the updated abstract of your project?
+#### What is the final version of the abstract of your project?
 
-TODO: Write a one-paragraph abstract that overviews your long-term project and
-the expected outcomes. The content that you write here should be written and
+TODO: Write a brief one-paragraph abstract that overviews your long-term project
+and the expected outcomes. The content that you write here should be written and
 formatted like the abstract of a scientific paper published in an ACM or IEEE
 conference in the field of computer security. The one different between an
 abstract that you read in a published research paper and this abstract is that
 the one you are writing here will reference expected research results and a
 published paper will explain the results from a completed study.
 
-#### What parts of your project have you already designed and implemented?
-
-TODO: Write a one or two paragraph response to this question. Your response
-should highlight the names of the system components that you are going to build,
-the way in which you are going to design each specific component, and then a
-checklist of steps that you will take to actually implement and test that
-component. Whenever possible, please make sure that you state the specific
-implementation frameworks, programming languages, and tools that you will use to
-design and implement each component in your proposed system. Please make it 
-clear how your response connects to the parts of the system that you have
-already implemented since the proposal of your project.
-
-#### Please pick one source code segment you have already implemented and explain it.
+#### Please pick one source code segment from your final tool and explain it.
 
 TODO: Using your project's chosen implementation language, please provide a
 source code segment in a fenced code block. Then, write at least one paragraph
 that explains the key features of the code segment that you have already
 implemented. When appropriate, explain what was technically challenging and/or
-interesting about the provided source code segment.
+interesting about the provided source code segment. Please make sure that you
+pick a code segment that is different that one you highlighted previously.
 
 #### What is some preliminary experimental evidence arising from your project?
 
