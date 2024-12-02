@@ -97,13 +97,8 @@ furnish a written justification for why you assigned that score.
 
 TODO: Please provide a list of the key components of the software tool that you
 implemented, giving a name for each component and explaining how it connects to
-the other components in the system.
-
-#### Describe the design of the experiment that you conducted for evaluation.
-
-TODO: Furnish research questions that you stated and answered, ensuring that
-each research question references an evaluation metric and a strategy that you
-adopted for experimentally answering the stated research question.
+the other components in the system and how each component achieves the overall
+security-related goals for your security summit project.
 
 #### Please pick one source code segment from your final tool and explain it.
 
@@ -114,13 +109,30 @@ implemented. When appropriate, explain what was technically challenging and/or
 interesting about the provided source code segment. Please make sure that you
 pick a code segment that is different that one you highlighted previously.
 
-#### What is some preliminary experimental evidence arising from your project?
+#### Describe the design of the experiment that you conducted for evaluation.
 
-TODO: Write a response with one or two paragraphs that overview an interesting
-empirical study that you have conducted and result arising from it. Whenever
-possible, your response to this question should furnish data (through a fenced
-code block or a table) that supports the claims that you are making about
-various aspects of the efficiency, effectiveness, or security of your approach.
+TODO: Furnish research questions that you stated and answered, ensuring that
+each research question references an evaluation metric and a strategy that you
+adopted for experimentally answering the stated research question.
+
+#### What are the results of the experiment that you conducted for evaluation?
+
+TODO: Using tables of data and/or graphs, please report on the results of the
+from the experiments that you conducted to answer the stated research questions.
+You should make sure that this content references the evaluation metrics when
+you provide an answer to the stated research questions.
+
+#### What challenges did you faced during this project? How did you overcome them?
+
+TODO: Provide a brief one-paragraph description of the challenges that you faced
+and the practical strategies that you employed to overcome them.
+
+#### Summarize the contributions of your project and suggest areas for future work.
+
+TODO: Provide a brief one-paragraph summary of the contributions of your
+project and highlight the areas where you think that future work is useful. Your
+discussion of future work should connect to both (i) ways to enhance the tool
+that you implemented and (ii) opportunities for future empirical studies.
 
 #### What is the reference to the GitHub repository that contains your tool/data?
 
