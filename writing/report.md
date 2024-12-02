@@ -117,10 +117,10 @@ adopted for experimentally answering the stated research question.
 
 #### What are the results of the experiment that you conducted for evaluation?
 
-TODO: Using tables of data and/or graphs, please report on the results of the
-from the experiments that you conducted to answer the stated research questions.
-You should make sure that this content references the evaluation metrics when
-you provide an answer to the stated research questions.
+TODO: Using tables of data and/or graphs, please report on the results from the
+experiments that you conducted to answer the stated research questions. You
+should make sure that this content references the evaluation metrics when you
+provide an answer to the stated research questions.
 
 #### What challenges did you faced during this project? How did you overcome them?
 
