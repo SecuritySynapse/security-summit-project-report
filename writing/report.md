@@ -14,15 +14,15 @@ including artificial intelligence coding assistants and online forums, during
 the completion of this project provided that you cite these sources and explain
 how you used them to complete the various components of your long-term project.
 
-## final report Instructions
+## Final Report Instructions
 
-Provide a brief final reports about your progress on the security summit
-project. Please note that, in addition to ensuring that your GitHub repository
-has a passing build, the course instructor will also confirm that you have
-adequately answered all of the questions by providing meaningful responses to
-each of them. It is important to note that if you do not provide satisfactory
-answers to all of these questions you will not earn a satisfactory assessment
-of your security synapse project's final report.
+Write a final report about your overall work on the security summit project.
+Please note that, in addition to ensuring that your GitHub repository has a
+passing build, the course instructor will also confirm that you have adequately
+answered all of the questions by providing meaningful responses to each of them.
+It is important to note that if you do not provide satisfactory answers to all
+of these questions you will not earn a satisfactory assessment of your security
+synapse project's final report.
 
 TODO: You should delete all of the prompts in this file so as to ensure that the
 final document is a comprehensive final report for your security synapse project.
@@ -47,6 +47,7 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 - [] Using tables of data and/or graphs, reported on the experimental results
 - [] Documented the challenges that you faced and how you overcame them
 - [] Summarized the project’s contributions and suggested areas for future work
+- [] Furnished a link to the GitHub repositories that contains your tooling/data
 
 ### Project Report
 
@@ -57,8 +58,8 @@ what you are going to build, and describe how you are going to evaluate it. What
 you furnish in this sub-section of the report should include a few more
 details than the topic list that you provided in the previous sub-section.
 
-- **Chosen Topic**: 
-- **Final Title**:
+- **Final Project Topic**: 
+- **Final Project Title**:
 
 #### What are the ways in which your project's topic evolved since its proposal?
 
@@ -73,6 +74,13 @@ TODO: Provide a list of at least three goals for your chosen project. Each goal
 that you provide should have a clear noun and verb. Whenever it is possible to
 do so, please make sure that you do not write any of these goals in passive
 voice as that would obscure the overall contributions of your project.
+
+#### Given the stated goals for your project, how well did you achieve them? 
+
+TODO: For each of the goals described in the previous sub-section, please assess
+on a scale of 1 to 5 (with 1 being the lowest and 5 being the highest) how well
+you achieved that goal. In addition to providing a numerical rating, please
+furnish a written justification for why you assigned that score.
 
 #### What is the final version of the abstract of your project?
 
@@ -100,3 +108,10 @@ empirical study that you have conducted and result arising from it. Whenever
 possible, your response to this question should furnish data (through a fenced
 code block or a table) that supports the claims that you are making about
 various aspects of the efficiency, effectiveness, or security of your approach.
+
+#### What is the reference to the GitHub repository that contains your tool/data?
+
+TODO: Please provide references to the one or more GitHub repositories that
+contains the source code and/or data that accompanies your long-term project.
+Please make sure that the course instructor has access to these repositories,
+ensuring that they are available for inspection without a follow-on request.
